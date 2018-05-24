@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SearchBar.qml</file>
+        <file>BooksListView.qml</file>
+        <file>BooksGridView.qml</file>
+        <file>BooksCoverflowView.qml</file>
+    </qresource>
+</RCC>
